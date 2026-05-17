@@ -1,0 +1,11 @@
+/Roms/Game Boy Advance (GBA)/Harry Potter Quidditch World Cup.gba
+/Roms/Game Boy Advance (GBA)/Harry Potter and The Chamber of Secrets.gba
+/Roms/Game Boy Advance (GBA)/Harry Potter and The Goblet of Fire.gba
+/Roms/Game Boy Advance (GBA)/Harry Potter and the Order of the Phoenix.gba
+/Roms/Game Boy Advance (GBA)/Harry Potter and The Prisoner of Azkaban.gba
+/Roms/Game Boy Advance (GBA)/Harry Potter and the Sorcerers Stone.gba
+/Roms/Game Boy Color (GBC)/Harry Potter and the Chamber of Secrets.gbc
+/Roms/Game Boy Color (GBC)/Harry Potter And The Sorcerers Stone.gbc
+/Roms/Sony PlayStation (PS)/Harry Potter and the Chamber of Secrets/Harry Potter and the Chamber of Secrets.bin
+/Roms/Sony PlayStation (PS)/Harry Potter and the Sorcerers Stone/Harry Potter and the Sorcerer's Stone.bin
+

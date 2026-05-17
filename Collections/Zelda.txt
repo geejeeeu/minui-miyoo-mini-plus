@@ -1,0 +1,23 @@
+/Roms/Game Boy (GB)/The Legend of Zelda The Links Awakening.gb
+/Roms/Game Boy (GB)/The Legend of Zelda.gb
+/Roms/Game Boy Advance (GBA)/The Legend of Zelda A Link To The Past Four Swords.gba
+/Roms/Game Boy Advance (GBA)/The Legend Of Zelda Link To The Past.gba
+/Roms/Game Boy Advance (GBA)/The Legend of Zelda The Minish Cap.gba
+/Roms/Game Boy Color (GBC)/The Legend of Zelda The Oracle of Seasons.gbc
+/Roms/Game Boy Color (GBC)/The Legend of ZeldaThe Oracle of Ages.gbc
+/Roms/Nintendo Entertainment System (FC)/The Legend of Zelda.nes
+/Roms/Super Nintendo Entertainment System (SFC)/Legend of Zelda.smc
+/Roms/Super Nintendo Entertainment System (SFC)/The Legend of Zelda A Link to the Past.sfc
+
+
+
+
+
+
+
+
+
+
+
+
+

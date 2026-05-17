@@ -1,0 +1,47 @@
+#!/bin/sh
+BIN_DIR="$(dirname "$0")"
+PAK_DIR="$(dirname "$BIN_DIR")"
+PAK_NAME="$(basename "$PAK_DIR")"
+PAK_NAME="${PAK_NAME%.*}"
+set -x
+
+echo "$0" "$@"
+cd "$PAK_DIR" || exit 1
+
+architecture=arm
+if uname -m | grep -q '64'; then
+    architecture=arm64
+fi
+
+export PATH="$PAK_DIR/bin/$architecture:$PAK_DIR/bin/$PLATFORM:$PAK_DIR/bin:$PATH"
+export SSL_CERT_FILE="$PAK_DIR/certs/ca-certificates.crt"
+
+main() {
+    cd "$SDCARD_PATH" || return 1
+
+    chmod +x "$PAK_DIR/bin/$architecture/syncthing"
+
+    if [ -d "$PAK_DIR/config" ]; then
+        mkdir -p "$USERDATA_PATH/Syncthing"
+        mv "$PAK_DIR/config" "$USERDATA_PATH/Syncthing/config"
+    fi
+
+    if [ ! -f "$USERDATA_PATH/Syncthing/config/config.xml" ]; then
+        echo "Generating configuration for Syncthing"
+        mkdir -p "$USERDATA_PATH/Syncthing/config"
+        syncthing generate --no-default-folder --gui-user="minui" --gui-password="minui" "--home=$USERDATA_PATH/Syncthing/config/" >"$LOGS_PATH/$PAK_NAME.generate.txt" 2>&1 &
+
+        while service-is-running; do
+            sleep 1
+        done
+
+        killall syncthing >/dev/null 2>&1 || true
+    fi
+
+    sed -i "s|<address>127.0.0.1:8384</address>|<address>0.0.0.0:8384</address>|g" "$USERDATA_PATH/Syncthing/config/config.xml"
+
+    echo "Running Syncthing"
+    (syncthing serve "--home=$USERDATA_PATH/Syncthing/config/" >"$LOGS_PATH/$PAK_NAME.service.txt" &) &
+}
+
+main "$@"

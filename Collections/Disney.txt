@@ -1,0 +1,41 @@
+/Roms/Game Boy (GB)/Aladdin.gb
+/Roms/Game Boy (GB)/Mickey Mouse Magic Wand.gb
+/Roms/Game Boy (GB)/Mickey Mouse.gb
+/Roms/Game Boy (GB)/Mickeys Chase.gb
+/Roms/Game Boy (GB)/Mickeys Ultimate Challenge.gb
+/Roms/Game Boy (GB)/Toy Story.gb
+/Roms/Game Boy Advance (GBA)/Aladdin.GBA
+/Roms/Game Boy Advance (GBA)/Disney Brother Bear.gba
+/Roms/Game Boy Advance (GBA)/Disney Princess.gba
+/Roms/Game Boy Advance (GBA)/Disney Sports Football.gba
+/Roms/Game Boy Advance (GBA)/Disney Sports Snowboarding.gba
+/Roms/Game Boy Advance (GBA)/Disneys Aladdin.gba
+/Roms/Game Boy Advance (GBA)/Disneys American Dragon Jake Long Rise of the Huntsclan.gba
+/Roms/Game Boy Advance (GBA)/Disneys Cinderella Magical Dreams.gba
+/Roms/Game Boy Advance (GBA)/Disneys Extreme Skate Adventure.gba
+/Roms/Game Boy Advance (GBA)/Disneys Herbie Fully Loaded.gba
+/Roms/Game Boy Advance (GBA)/Disneys Kim Possible 2.gba
+/Roms/Game Boy Advance (GBA)/Disneys Kim Possible.gba
+/Roms/Game Boy Advance (GBA)/Disneys Lilo Stitch 2 Hamsterveil Havoc.gba
+/Roms/Game Boy Advance (GBA)/Disneys Lilo Stitch.gba
+/Roms/Game Boy Advance (GBA)/Disneys Magical Quest 2.gba
+/Roms/Game Boy Advance (GBA)/Disneys Magical Quest 3.gba
+/Roms/Game Boy Advance (GBA)/Disneys Party.gba
+/Roms/Game Boy Advance (GBA)/Disneys Thats so Raven 2.gba
+/Roms/Game Boy Advance (GBA)/Disneys The Jungle Book 2.gba
+/Roms/Game Boy Advance (GBA)/Finding Nemo The Continuing Adventures.gba
+/Roms/Game Boy Advance (GBA)/Finding Nemo.gba
+/Roms/Game Boy Advance (GBA)/Magical Quest Starring Mickey Minnie.gba
+/Roms/Game Boy Advance (GBA)/Disneys The Lion King.gba
+/Roms/Game Boy Color (GBC)/Mickeys Speedway.gbc
+/Roms/Game Boy Color (GBC)/Toy Story Racing.gbc
+/Roms/Game Boy Color (GBC)/Toy Story 2.gbc
+/Roms/Nintendo Entertainment System (FC)/Aladdin.nes
+/Roms/Super Nintendo Entertainment System (SFC)/Aladdin.sfc
+/Roms/Super Nintendo Entertainment System (SFC)/Mickey Mouse.sfc
+/Roms/Super Nintendo Entertainment System (SFC)/Mickeys Playtown Adventure.smc
+/Roms/Super Nintendo Entertainment System (SFC)/Mickeys Ultimate Challenge.sfc
+/Roms/Super Nintendo Entertainment System (SFC)/The Great Circus Mystery Starring Mickey Minnie.smc
+/Roms/Super Nintendo Entertainment System (SFC)/Mickey Mania.smc
+/Roms/Super Nintendo Entertainment System (SFC)/Toy Story.smc
+

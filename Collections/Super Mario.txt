@@ -1,0 +1,29 @@
+/Roms/Game Boy (GB)/Dr Mario.gb
+/Roms/Game Boy (GB)/Marios Picross.gb
+/Roms/Game Boy (GB)/Super Mario Land 2 6 Golden Coins.gb
+/Roms/Game Boy (GB)/Super Mario Land.gb
+/Roms/Game Boy (GB)/Wario Land Super Mario Land 3 World.gb
+/Roms/Game Boy Advance (GBA)/Mario Party Advance.gba
+/Roms/Game Boy Advance (GBA)/Mario Golf Advance Tour.gba
+/Roms/Game Boy Advance (GBA)/Mario Kart Super Circuit.gba
+/Roms/Game Boy Advance (GBA)/Mario Luigi Superstar Saga.gba
+/Roms/Game Boy Advance (GBA)/Mario Pinball Land.gba
+/Roms/Game Boy Advance (GBA)/Mario vs Donkey Kong.gba
+/Roms/Game Boy Advance (GBA)/Super Mario Advance 2 Super Mario World.gba
+/Roms/Game Boy Advance (GBA)/Super Mario Advance 3 Yoshis Island.gba
+/Roms/Game Boy Advance (GBA)/Super Mario Advance 4 Super Mario Bros 3.gba
+/Roms/Game Boy Advance (GBA)/Super Mario Advance.gba
+/Roms/Game Boy Advance (GBA)/Super Mario Bros.GBA
+/Roms/Game Boy Color (GBC)/Mario Golf.gbc
+/Roms/Game Boy Color (GBC)/Mario Tennis.gbc
+/Roms/Game Boy Color (GBC)/Super Mario Bros Deluxe.gbc
+/Roms/Nintendo Entertainment System (FC)/Dr Mario.nes
+/Roms/Nintendo Entertainment System (FC)/Super Mario Bros 2.nes
+/Roms/Nintendo Entertainment System (FC)/Super Mario Bros 3.nes
+/Roms/Nintendo Entertainment System (FC)/Super Mario Bros.nes
+/Roms/Super Nintendo Entertainment System (SFC)/Super Mario All Stars.smc
+/Roms/Super Nintendo Entertainment System (SFC)/Super Mario Kart.smc
+/Roms/Super Nintendo Entertainment System (SFC)/Super Mario RPG Legend of the Seven Stars.smc
+/Roms/Super Nintendo Entertainment System (SFC)/Super Mario World 2 Yoshis Island.smc
+/Roms/Super Nintendo Entertainment System (SFC)/Super Mario World.smc
+

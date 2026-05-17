@@ -1,0 +1,24 @@
+/Roms/Game Boy (GB)/Pokemon Blue Version.gb
+/Roms/Game Boy (GB)/Pokemon Red Version.gb
+/Roms/Game Boy Advance (GBA)/Pokemon Emerald.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Mystery Dungeon Red Rescue Team.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Ruby Version.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Ruby.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Saphire.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Emerald Version.gba
+/Roms/Game Boy Advance (GBA)/Pokemon FireRed Version.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Pinball Ruby and Sapphire.gba
+/Roms/Game Boy Color (GBC)/Pokemon Crystal Version.gbc
+/Roms/Game Boy Color (GBC)/Pokemon Gold Version.gbc
+/Roms/Game Boy Color (GBC)/Pokemon Pinball.gbc
+/Roms/Game Boy Color (GBC)/Pokemon Puzzle Challenge.gbc
+/Roms/Game Boy Color (GBC)/Pokemon Silver Version.gbc
+/Roms/Game Boy Color (GBC)/Pokemon Trading Card Game.gbc
+/Roms/Game Boy Color (GBC)/Pokemon Yellow Version.gbc
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+/Roms/Game Boy Advance (GBA)/Pokemon Arcoiris Version.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Blue Sea Edition.gba
+/Roms/Game Boy Advance (GBA)/Pokemon ChaosBlack Version.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Crystal Sharos.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Dark Cry Version.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Frego Retern.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Lugias Ocean Version.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Naranja Version.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Perfect Emerald.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Perfect FireRed.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Perla Version.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Quartz Version.gba
+/Roms/Game Boy Advance (GBA)/Pokemon ShinyGold Version.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Ultra Violet.gba
+/Roms/Game Boy Advance (GBA)/Pokemon LeafGreen Mew Version.gba
+/Roms/Game Boy Advance (GBA)/Pokemon Unbound.gba
+/Roms/Game Boy Color (GBC)/Pokemon Perfect Crystal.gbc
+/Roms/Game Boy Color (GBC)/Pokemon Blue Color Edition.gbc
+/Roms/Game Boy Color (GBC)/Pokemon Crystal NL.gbc
+/Roms/Nintendo Entertainment System (FC)/Pokemon 2000.nes
+/Roms/Nintendo Entertainment System (FC)/Pokemon 4in1.nes
+/Roms/Nintendo Entertainment System (FC)/Pokemon Blue.nes
+/Roms/Nintendo Entertainment System (FC)/Pokemon Green.nes
+
