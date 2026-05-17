@@ -1,29 +1,5 @@
 # MinUI-Miyoo-Mini-Plus
-This page provides MinUI and tools for the Miyoo Mini Plus. 
-
-# Guide
-This is a compact guide. Please see the full guide at: https://geejee.eu/retroshell/minui-miyoo-mini-plus/
-01. Format a SD card with FAT32 Format Tool
-02. Place the firmware .img file on the SD Card
-03. Make sure your device is turn off and the SD card is placed in your device
-04. Plugin your device in a 5V charger
-05. The firmware will start, wait for it to complete
-06. Remove the SD card from the device and place it in your PC
-07. Remove the .img file from your SD card and place all files from MinUi onto the SD card
-08. Remove your SD card from your PC and place it in your device
-09. Turn the device on, MinUI will install itself
-10. Go to Tools and select the Remove Loading.pak. This can take up to 5 minutes. 
-11. After Remove Loading is complete, turn off your device and put the SD card in your PC again
-12. Copy the desired files from the package to the SD card. This can include:
-- Boxart
-- Collections
-- Enable RTC
-- PAKs
-- NintendoDS
-- Custom Boot Logos
-13. Place the SD card in your device one last time
-14. Now you can setup your device, Change the time and use the apps or games you placed on the SD card.
-15. And this is maybe the most important step: Enjoy playing your favorite retro games!
+This page contains MinUI and optional apps for the Miyoo Mini Plus. These files are shared to support the guide available on GeeJee.EU. 
 
 # Credits
 All software shared here is not mine and is freely available online. It is provided solely for preservation purposes. There is no intent to sell, redistribute commercially, or claim ownership of any of the included software. If anyone has objections to their apps or software being included here, please let me know and I will remove them as soon as possible. Full credit goes to the following creators:
@@ -37,3 +13,20 @@ All software shared here is not mine and is freely available online. It is provi
 - Syncthing: https://github.com/josegonzalez/minui-syncthing-pak
 - Screenshot Daemon: https://www.rg35xx.com/ (not available anymore)
 
+# Guide
+This is a compact guide. For the full guide, see:  GeeJee.eu RetroShell Guide￼
+1. Format the SD card using FAT32 Format Tool
+2. Copy the firmware .img file to the SD card
+3. Insert the SD card into the powered-off device
+4. Connect the device to a 5V charger
+5. Wait for the firmware installation to complete
+6. Remove the SD card and connect it to your PC
+7. Delete the .img file and copy all MinUI files to the SD card
+8. Reinsert the SD card into the device and power it on
+9. MinUI will install automatically
+10. In Tools, run Remove Loading.pak (can take up to 5 minutes)
+11. After completion, power off the device and reconnect the SD card to your PC
+12. Copy any optional files you want, such as boxart, collections, enable RTC, PAKs, NintendoDS or Custom Boot Logos
+13. Insert the SD card back into the device
+14. Set the time and configure your apps and games
+15. And the most important step: Enjoy your favorite retro games!
