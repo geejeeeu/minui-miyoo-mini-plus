@@ -1,6 +1,8 @@
 # MinUI-Miyoo-Mini-Plus
 This page contains MinUI and optional apps for the Miyoo Mini Plus. These files are shared to support the guide available on https://geejee.eu. 
 
+Disclaimer: I won’t share any of the BIOS and ROM files. Make sure you own the systems and games before using them on your handheld.
+
 # Credits
 All software shared here is not mine and is freely available online. It is provided solely for preservation purposes. There is no intent to sell, redistribute commercially, or claim ownership of any of the included software. If anyone has objections to their apps or software being included here, please let me know and I will remove them as soon as possible. Full credit goes to the following creators:
 - FAT32 Format Tool: https://guiformat.net
