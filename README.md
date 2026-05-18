@@ -33,3 +33,8 @@ This is a compact guide. For the full guide, see:  https://geejee.eu/retroshell/
 
 # Thanks
 I hope it helps you with your Miyoo Mini Plus and MinUi. Happy gaming :)!
+
+# Support my work? 
+If you like this guide and want to support my work, you can use the link below to buy me a coffee. Every bit of support is appreciated and helps me continue creating new content.
+
+Buy me a Coffee: https://buymeacoffee.com/geejee
